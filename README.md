@@ -26,30 +26,15 @@ The project involved relocating a mass computer imaging lab due to water damage,
 
 <h2>Project Walk-Through 🚶:</h2>
 
+- <b>Preparation: Assessed damage and scoped out new location. Procured necessary equipment and materials for the migration.
+- <b>Rewiring: Untangled and patched ethernet cables into the new patch panel, ensuring proper connectivity.
+- <b>Infrastructure Setup: Installed four new metal imaging racks and organized cables using cable management techniques.
+- <b>Configuration: Configured VLANs to segregate network traffic and ensure security and efficiency.
+- <b>Power Management: Tested power strips and outlets with a digital multimeter to ensure reliable power distribution.
+- <b>Network Testing: Used Fluke IQ to test the power and functionality of ethernet cables, verifying proper transmission.
+- <b>Functional Testing: Imaged computers using the lab setup to validate the functionality of all components and ensure seamless operation.
 
-<br />
-Preparation: Assessed damage and scoped out new location. Procured necessary equipment and materials for the migration.
-<br />
-<br />
-Rewiring: Untangled and patched ethernet cables into the new patch panel, ensuring proper connectivity.
-<br />
-<br />
-Infrastructure Setup: Installed four new metal imaging racks and organized cables using cable management techniques.
-<br />
-<br />
-Configuration: Configured VLANs to segregate network traffic and ensure security and efficiency.
-<br />
-<br />
-Power Management: Tested power strips and outlets with a digital multimeter to ensure reliable power distribution.
-<br />
-<br />
-Network Testing: Used Fluke IQ to test the power and functionality of ethernet cables, verifying proper transmission.
-<br />
-<br />
-Functional Testing: Imaged computers using the lab setup to validate the functionality of all components and ensure seamless operation.
-<br />
-<br />
-Create a New Virtual Box Instance: <br/>
+<h2>Project Photos 🚶:</h2>
 <img src="https://i.imgur.com/duSTaFZ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/0dWXEzM.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
