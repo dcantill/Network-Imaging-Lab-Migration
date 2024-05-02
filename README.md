@@ -34,7 +34,7 @@ The project involved relocating a mass computer imaging lab due to water damage,
 - <b>Network Testing: Used Fluke IQ to test the power and functionality of ethernet cables, verifying proper transmission.
 - <b>Functional Testing: Imaged computers using the lab setup to validate the functionality of all components and ensure seamless operation.
 
-<h2>Project Photos 🚶:</h2>
+<h2>Project Photos 📸:</h2>
 <img src="https://i.imgur.com/duSTaFZ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/0dWXEzM.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
