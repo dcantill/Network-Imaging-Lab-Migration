@@ -47,8 +47,6 @@ The project involved relocating a mass computer imaging lab due to water damage,
 <br />
 <img src="https://imgur.com/PWCK4zO.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://imgur.com/rW8LAjY.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
 <img src="https://imgur.com/U8Awy42.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://imgur.com/WdZ3bcE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
