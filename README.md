@@ -34,37 +34,6 @@ The project involved relocating a mass computer imaging lab due to water damage,
 - <b>Network Testing: Used Fluke IQ to test the power and functionality of ethernet cables, verifying proper transmission.
 - <b>Functional Testing: Imaged computers using the lab setup to validate the functionality of all components and ensure seamless operation.
 
-<h2>Project Photos 📸:</h2>
-<img src="https://imgur.com/AK7omAj.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/PZKSnXx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/W8Ml3I8.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/bHyGXMw.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/y66e14o.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/PWCK4zO.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/U8Awy42.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/WdZ3bcE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/DBaG1BL.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/5gQ6XUU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/bVSxH7L.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/sPAMQHY.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/cSG7Zpi.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/RVseHg0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
 
 <!--
  ```diff
